@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-int64",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a Node-API value to a signed 64-bit integer.",
   "license": "Apache-2.0",
   "author": {
